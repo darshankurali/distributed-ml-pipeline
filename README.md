@@ -1,4 +1,4 @@
-# Project 14: Distributed ML with Hyperparameter Tuning
+# Distributed ML with Hyperparameter Tuning
 
 ## 🎯 Overview
 Parallel hyperparameter optimization using GridSearchCV and RandomizedSearchCV across CPU cores.
